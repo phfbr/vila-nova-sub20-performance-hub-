@@ -1,4 +1,4 @@
-# Vila Nova Sub-20 Performance Hub 🔴⚪
+# Vila Nova Sub-20 Performance Hub 
 
 **Análise de desempenho esportivo do Vila Nova Sub-20 no Campeonato Brasileiro Sub-20 B de 2026**, desenvolvida com **Python e Power BI**, a partir de dados de súmulas oficiais da CBF.
 
@@ -99,12 +99,6 @@ vila-nova-sub20-performance-hub/
 - As estatísticas se limitam aos eventos registrados nas súmulas e aos campos tratados no projeto.
 - O dashboard não pretende medir métricas de rastreamento ou desempenho físico não presentes na fonte.
 - Este é um projeto independente de portfólio, sem vínculo oficial com o Vila Nova Futebol Clube ou com a CBF.
-
-## Próximas melhorias
-
-- Disponibilizar o arquivo Power BI e os scripts revisados.
-- Documentar o dicionário de dados e as principais medidas DAX.
-- Adicionar, quando aplicável, um link de visualização online do relatório.
 
 ---
 
