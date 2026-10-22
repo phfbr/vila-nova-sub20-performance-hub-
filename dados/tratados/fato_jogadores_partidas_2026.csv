@@ -1,0 +1,149 @@
+﻿id_partida;jogo;id_cbf;camisa;apelido;nome_sumula;titular;reserva;goleiro
+833339;7;703371;1;KAUA;Kaua Paes de Oliveir ...;1;0;1
+833339;7;743019;2;Gabriel;Gabriel Delfino dos ...;1;0;0
+833339;7;709889;3;Giovenazze;Matheus Giovenazze P ...;1;0;0
+833339;7;710357;4;Carlos;Carlos Eduardo Soare ...;1;0;0
+833339;7;649189;5;Guilherme ...;Guilherme Vieira Miranda;1;0;0
+833339;7;707712;6;Luiz Eduardo;Luiz Eduardo de Souza;1;0;0
+833339;7;711006;7;Gabriel Dias;Gabriel Lima Dias;1;0;0
+833339;7;718315;9;GUSTAVO LEMOS;Gustavo Puskas Pinhe ...;1;0;0
+833339;7;745842;10;Kerlon;Kerlon da Silva Carvalho;1;0;0
+833339;7;885956;11;RIAN;Rian Lucas Santos Alves;1;0;0
+833339;7;712938;27;FELIPE;Felipe Faria Nascimento;1;0;0
+833339;7;887073;30;Pedro Bispo;Pedro Bispo Santos;0;1;1
+833339;7;723708;13;Lucas;Lucas Paulino Souza ...;0;1;0
+833339;7;744863;14;Caio Dantas;Caio Dantas Mendes;0;1;0
+833339;7;736501;15;Breno;Breno da Costa Pereira;0;1;0
+833339;7;673194;16;Alex Haren;Alex Haren Marins Ramiro;0;1;0
+833339;7;813083;17;MIGUEL MORENO;Miguel Luciano da Si ...;0;1;0
+833339;7;743016;18;Miguel;Miguel Delfino dos Santos;0;1;0
+833339;7;730503;19;Leonardo;Leonardo Alves Monteiro;0;1;0
+833339;7;710681;20;Enzo;Enzo Felipe Peres de Lima;0;1;0
+833339;7;727193;21;Gabriel;Gabriel Isamu Silvei ...;0;1;0
+833339;7;751081;22;Lucas;Lucas Oliveira Alves;0;1;0
+833349;15;703371;1;KAUA;Kaua Paes de Oliveir ...;1;0;1
+833349;15;743019;2;Gabriel;Gabriel Delfino dos ...;1;0;0
+833349;15;723708;3;Lucas;Lucas Paulino Souza ...;1;0;0
+833349;15;751723;4;Carlos Daniel;Carlos Daniel Soares ...;1;0;0
+833349;15;712938;5;FELIPE;Felipe Faria Nascimento;1;0;0
+833349;15;751081;6;Lucas;Lucas Oliveira Alves;1;0;0
+833349;15;813083;7;MIGUEL MORENO;Miguel Luciano da Si ...;1;0;0
+833349;15;730503;9;Leonardo;Leonardo Alves Monteiro;1;0;0
+833349;15;710681;10;Enzo;Enzo Felipe Peres de Lima;1;0;0
+833349;15;687235;11;Warley;Warley Corrêa Maitan;1;0;0
+833349;15;806085;27;Jonas Barros;Jonas Santos de Barros;1;0;0
+833349;15;696458;30;DAVI;Davi Lucas Parreira ...;0;1;1
+833349;15;736747;13;Gustavo;Gustavo Barbosa Felix;0;1;0
+833349;15;752843;14;Miguel;Miguel Otávio Gomes ...;0;1;0
+833349;15;727193;15;Gabriel;Gabriel Isamu Silvei ...;0;1;0
+833349;15;769447;16;Samuel;Samuel Frota Nunes;0;1;0
+833349;15;780615;17;Kaua Sousa;Kaua Sousa da Silva;0;1;0
+833349;15;688333;18;Rodrigo Pa ...;Rodrigo Gabriel Lima ...;0;1;0
+833349;15;707712;19;Luiz Eduardo;Luiz Eduardo de Souza;0;1;0
+833349;15;753379;20;KAUÃ;Kaua Calixto da Silv ...;0;1;0
+833356;22;703371;1;KAUA;Kaua Paes de Oliveir ...;1;0;1
+833356;22;743019;2;Gabriel;Gabriel Delfino dos ...;1;0;0
+833356;22;710357;3;Carlos;Carlos Eduardo Soare ...;1;0;0
+833356;22;752454;4;SAMUEL;Samuel Lucas de Oliv ...;1;0;0
+833356;22;712938;5;FELIPE;Felipe Faria Nascimento;1;0;0
+833356;22;673194;6;Alex Haren;Alex Haren Marins Ramiro;1;0;0
+833356;22;711006;7;Gabriel Dias;Gabriel Lima Dias;1;0;0
+833356;22;649189;8;Guilherme ...;Guilherme Vieira Miranda;1;0;0
+833356;22;735455;9;Jackson Filho;Jackson Teixeira Filho;1;0;0
+833356;22;745842;10;Kerlon;Kerlon da Silva Carvalho;1;0;0
+833356;22;885956;11;RIAN;Rian Lucas Santos Alves;1;0;0
+833356;22;887073;30;Pedro Bispo;Pedro Bispo Santos;0;1;1
+833356;22;768256;13;João Gabriel;Joao Gabriel Carvalh ...;0;1;0
+833356;22;709889;14;Giovenazze;Matheus Giovenazze P ...;0;1;0
+833356;22;727193;15;Gabriel;Gabriel Isamu Silvei ...;0;1;0
+833356;22;736501;16;Breno;Breno da Costa Pereira;0;1;0
+833356;22;751081;17;Lucas;Lucas Oliveira Alves;0;1;0
+833356;22;813083;18;MIGUEL MORENO;Miguel Luciano da Si ...;0;1;0
+833356;22;730503;19;Leonardo;Leonardo Alves Monteiro;0;1;0
+833356;22;687235;20;Warley;Warley Corrêa Maitan;0;1;0
+833356;22;743016;21;Miguel;Miguel Delfino dos Santos;0;1;0
+833356;22;710681;22;Enzo;Enzo Felipe Peres de Lima;0;1;0
+833363;29;703371;30;KAUA;Kaua Paes de Oliveir ...;1;0;1
+833363;29;743019;2;Gabriel;Gabriel Delfino dos ...;1;0;0
+833363;29;710357;3;Carlos;Carlos Eduardo Soare ...;1;0;0
+833363;29;736501;4;Breno;Breno da Costa Pereira;1;0;0
+833363;29;712938;5;FELIPE;Felipe Faria Nascimento;1;0;0
+833363;29;673194;6;Alex Haren;Alex Haren Marins Ramiro;1;0;0
+833363;29;711006;7;Gabriel Dias;Gabriel Lima Dias;1;0;0
+833363;29;735455;9;Jackson Filho;Jackson Teixeira Filho;1;0;0
+833363;29;745842;10;Kerlon;Kerlon da Silva Carvalho;1;0;0
+833363;29;885956;11;RIAN;Rian Lucas Santos Alves;1;0;0
+833363;29;649189;27;Guilherme ...;Guilherme Vieira Miranda;1;0;0
+833363;29;887073;99;Pedro Bispo;Pedro Bispo Santos;0;1;1
+833363;29;723708;13;Lucas;Lucas Paulino Souza ...;0;1;0
+833363;29;751723;14;Carlos Daniel;Carlos Daniel Soares ...;0;1;0
+833363;29;727193;15;Gabriel;Gabriel Isamu Silvei ...;0;1;0
+833363;29;768256;16;João Gabriel;Joao Gabriel Carvalh ...;0;1;0
+833363;29;687235;17;Warley;Warley Corrêa Maitan;0;1;0
+833363;29;743016;18;Miguel;Miguel Delfino dos Santos;0;1;0
+833363;29;730503;19;Leonardo;Leonardo Alves Monteiro;0;1;0
+833363;29;813083;20;MIGUEL MORENO;Miguel Luciano da Si ...;0;1;0
+833363;29;710681;21;Enzo;Enzo Felipe Peres de Lima;0;1;0
+833363;29;751081;23;Lucas;Lucas Oliveira Alves;0;1;0
+833372;38;703371;99;KAUA;Kaua Paes de Oliveir ...;1;0;1
+833372;38;743019;2;Gabriel;Gabriel Delfino dos ...;1;0;0
+833372;38;710357;3;Carlos;Carlos Eduardo Soare ...;1;0;0
+833372;38;723708;4;Lucas;Lucas Paulino Souza ...;1;0;0
+833372;38;712938;5;FELIPE;Felipe Faria Nascimento;1;0;0
+833372;38;673194;6;Alex Haren;Alex Haren Marins Ramiro;1;0;0
+833372;38;813083;7;MIGUEL MORENO;Miguel Luciano da Si ...;1;0;0
+833372;38;736501;8;Breno;Breno da Costa Pereira;1;0;0
+833372;38;730503;9;Leonardo;Leonardo Alves Monteiro;1;0;0
+833372;38;885956;10;RIAN;Rian Lucas Santos Alves;1;0;0
+833372;38;687235;11;Warley;Warley Corrêa Maitan;1;0;0
+833372;38;887073;30;Pedro Bispo;Pedro Bispo Santos;0;1;1
+833372;38;727193;13;Gabriel;Gabriel Isamu Silvei ...;0;1;0
+833372;38;751723;14;Carlos Daniel;Carlos Daniel Soares ...;0;1;0
+833372;38;806085;15;Jonas Barros;Jonas Santos de Barros;0;1;0
+833372;38;768256;16;João Gabriel;Joao Gabriel Carvalh ...;0;1;0
+833372;38;780615;17;Kaua Sousa;Kaua Sousa da Silva;0;1;0
+833372;38;743016;18;Miguel;Miguel Delfino dos Santos;0;1;0
+833372;38;710681;19;Enzo;Enzo Felipe Peres de Lima;0;1;0
+833372;38;751081;20;Lucas;Lucas Oliveira Alves;0;1;0
+833381;47;703371;1;KAUA;Kaua Paes de Oliveir ...;1;0;1
+833381;47;743019;2;Gabriel;Gabriel Delfino dos ...;1;0;0
+833381;47;752454;3;SAMUEL;Samuel Lucas de Oliv ...;1;0;0
+833381;47;736501;4;Breno;Breno da Costa Pereira;1;0;0
+833381;47;712938;5;FELIPE;Felipe Faria Nascimento;1;0;0
+833381;47;673194;6;Alex Haren;Alex Haren Marins Ramiro;1;0;0
+833381;47;718315;7;GUSTAVO LEMOS;Gustavo Puskas Pinhe ...;1;0;0
+833381;47;735455;9;Jackson Filho;Jackson Teixeira Filho;1;0;0
+833381;47;745842;10;Kerlon;Kerlon da Silva Carvalho;1;0;0
+833381;47;885956;11;RIAN;Rian Lucas Santos Alves;1;0;0
+833381;47;649189;27;Guilherme ...;Guilherme Vieira Miranda;1;0;0
+833381;47;887073;30;Pedro Bispo;Pedro Bispo Santos;0;1;1
+833381;47;736747;13;Gustavo;Gustavo Barbosa Felix;0;1;0
+833381;47;723708;14;Lucas;Lucas Paulino Souza ...;0;1;0
+833381;47;806085;15;Jonas Barros;Jonas Santos de Barros;0;1;0
+833381;47;768256;16;João Gabriel;Joao Gabriel Carvalh ...;0;1;0
+833381;47;727193;17;Gabriel;Gabriel Isamu Silvei ...;0;1;0
+833381;47;743016;18;Miguel;Miguel Delfino dos Santos;0;1;0
+833381;47;710681;19;Enzo;Enzo Felipe Peres de Lima;0;1;0
+833381;47;730503;20;Leonardo;Leonardo Alves Monteiro;0;1;0
+833381;47;687235;21;Warley;Warley Corrêa Maitan;0;1;0
+833381;47;711006;23;Gabriel Dias;Gabriel Lima Dias;0;1;0
+833389;55;703371;1;KAUA;Kaua Paes de Oliveir ...;1;0;1
+833389;55;743019;2;Gabriel;Gabriel Delfino dos ...;1;0;0
+833389;55;752454;3;SAMUEL;Samuel Lucas de Oliv ...;1;0;0
+833389;55;666122;4;Rodrigo;Rodrigo Bringel de O ...;1;0;0
+833389;55;712938;5;FELIPE;Felipe Faria Nascimento;1;0;0
+833389;55;673194;6;Alex Haren;Alex Haren Marins Ramiro;1;0;0
+833389;55;711006;7;Gabriel Dias;Gabriel Lima Dias;1;0;0
+833389;55;649189;8;Guilherme ...;Guilherme Vieira Miranda;1;0;0
+833389;55;735455;9;Jackson Filho;Jackson Teixeira Filho;1;0;0
+833389;55;885956;10;RIAN;Rian Lucas Santos Alves;1;0;0
+833389;55;687235;11;Warley;Warley Corrêa Maitan;1;0;0
+833389;55;887073;30;Pedro Bispo;Pedro Bispo Santos;0;1;1
+833389;55;744863;13;Caio Dantas;Caio Dantas Mendes;0;1;0
+833389;55;723708;14;Lucas;Lucas Paulino Souza ...;0;1;0
+833389;55;736501;15;Breno;Breno da Costa Pereira;0;1;0
+833389;55;707712;16;Luiz Eduardo;Luiz Eduardo de Souza;0;1;0
+833389;55;743016;17;Miguel;Miguel Delfino dos Santos;0;1;0
+833389;55;710681;18;Enzo;Enzo Felipe Peres de Lima;0;1;0
+833389;55;730503;19;Leonardo;Leonardo Alves Monteiro;0;1;0
+833389;55;813083;20;MIGUEL MORENO;Miguel Luciano da Si ...;0;1;0

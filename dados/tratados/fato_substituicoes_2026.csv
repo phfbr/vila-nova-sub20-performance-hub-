@@ -1,0 +1,78 @@
+﻿id_partida;jogo;tempo;periodo;equipe;camisa_entrou;jogador_entrou;camisa_saiu;jogador_saiu
+833339;7;-;INT;Operário/PR;14;Elcio Perek Júnior;7;Bruno Iago Santana Melo
+833339;7;13:00;2T;Vila Nova/GO;20;Enzo Felipe Peres de Lima;11;Rian Lucas Santos Alves
+833339;7;13:00;2T;Vila Nova/GO;19;Leonardo Alves Monteiro;7;Gabriel Lima Dias
+833339;7;19:00;2T;Operário/PR;21;Andrew Bernardo Wandratsch;9;Germano Gabriel Kremer Ponie...
+833339;7;19:00;2T;Operário/PR;17;Jaaziel Augusto de Medeiros ...;8;Marcos Otávio de Oliveira Al...
+833339;7;26:00;2T;Vila Nova/GO;14;Caio Dantas Mendes;2;Gabriel Delfino dos Santos
+833339;7;26:00;2T;Vila Nova/GO;22;Lucas Oliveira Alves;10;Kerlon da Silva Carvalho
+833339;7;26:00;2T;Vila Nova/GO;18;Miguel Delfino dos Santos;5;Guilherme Vieira Miranda
+833339;7;32:00;2T;Operário/PR;19;Mateus Meurer da Silva;5;Kayo Jose Fernandes da Luz
+833339;7;42:00;2T;Vila Nova/GO;17;Miguel Luciano da Silva Moreno;9;Gustavo Puskas Pinheiro Lemos
+833339;7;45:00;2T;Operário/PR;20;Jonas Brito Almeida;10;Dyego Camargo da Silva
+833339;7;45:00;2T;Operário/PR;16;Eduardo Vassao de Camargo;6;Miguel Tavora Camara
+833349;15;18:00;2T;Vila Nova/GO;13;Gustavo Barbosa Felix;11;Warley Corrêa Maitan
+833349;15;18:00;2T;Vila Nova/GO;17;Kaua Sousa da Silva;10;Enzo Felipe Peres de Lima
+833349;15;18:00;2T;Vila Nova/GO;15;Gabriel Isamu Silveira Maeda;27;Jonas Santos de Barros
+833349;15;18:00;2T;Paysandu/PA;20;Jhon Alexander Echavez Beltran;11;Marcos Kauan Melo Sodre
+833349;15;18:00;2T;Paysandu/PA;19;Jair Ruan Silva Rabelo;17;João Victor Lobato Melo
+833349;15;29:00;2T;Vila Nova/GO;16;Samuel Frota Nunes;7;Miguel Luciano da Silva Moreno
+833349;15;33:00;2T;Paysandu/PA;22;Carlos Daniel Gomes Novaes;2;Lucas Fernandes Pereira
+833349;15;33:00;2T;Paysandu/PA;15;Luan Meireles Tavares;5;Emerson Monteiro Ramos
+833349;15;39:00;2T;Paysandu/PA;18;Victor Cauã Souza da Silva;8;João Henrique de Castro de S...
+833349;15;39:00;2T;Paysandu/PA;21;Luciano Augusto dos Santos P...;10;Edielson Andrade de Sousa
+833349;15;40:00;2T;Vila Nova/GO;18;Rodrigo Gabriel Lima Rodrigues;9;Leonardo Alves Monteiro
+833349;15;40:00;2T;Vila Nova/GO;20;Kaua Calixto da Silva Prado;6;Lucas Oliveira Alves
+833356;22;-;INT;Atlético Goianiense Saf/GO;19;Nathan Neto Exupério;7;Guilherme Henrique de Olivei...
+833356;22;12:00;2T;Vila Nova/GO;14;Matheus Giovenazze Persico d...;3;Carlos Eduardo Soares de Car...
+833356;22;12:00;2T;Vila Nova/GO;20;Warley Corrêa Maitan;7;Gabriel Lima Dias
+833356;22;23:00;2T;Atlético Goianiense Saf/GO;17;Gabriel Adão Silva;11;Alan Lopes de Alencar
+833356;22;23:00;2T;Atlético Goianiense Saf/GO;14;Jampierre Alves de Souza;2;Eduardo Taumaturgo Miranda A...
+833356;22;23:00;2T;Atlético Goianiense Saf/GO;20;Gabriel Barbosa Botelho;10;Riquelme dos Santos Barbosa
+833356;22;34:00;2T;Atlético Goianiense Saf/GO;18;Brenno das Chagas Gomes;9;Gabriel Dias Pae
+833356;22;36:00;2T;Vila Nova/GO;16;Breno da Costa Pereira;8;Guilherme Vieira Miranda
+833356;22;36:00;2T;Vila Nova/GO;18;Miguel Luciano da Silva Moreno;11;Rian Lucas Santos Alves
+833356;22;44:00;2T;Vila Nova/GO;22;Enzo Felipe Peres de Lima;10;Kerlon da Silva Carvalho
+833356;22;44:00;2T;Vila Nova/GO;19;Leonardo Alves Monteiro;9;Jackson Teixeira Filho
+833363;29;-;INT;Botafogo/SP;15;Alifer Martins dos Santos;2;Gabriel da Silva Oliveira
+833363;29;-;INT;Botafogo/SP;16;Caio Ruan Silva Figueiredo;5;Yuri Felipe Santos da Concei...
+833363;29;17:00;2T;Botafogo/SP;19;Pedro Henrique Pires Normando;9;Robson Alex Ferreira Filho
+833363;29;20:00;2T;Vila Nova/GO;17;Warley Corrêa Maitan;7;Gabriel Lima Dias
+833363;29;20:00;2T;Botafogo/SP;20;Luiz Miguel Lopes Costa Viva...;7;Ruan Pablo de Oliveira Romano
+833363;29;36:00;2T;Botafogo/SP;18;Arthur Gabriel da Silva Rodr...;4;Gregorio Ruppenthal Sander
+833363;29;40:00;2T;Vila Nova/GO;20;Miguel Luciano da Silva Moreno;11;Rian Lucas Santos Alves
+833363;29;40:00;2T;Vila Nova/GO;19;Leonardo Alves Monteiro;10;Kerlon da Silva Carvalho
+833363;29;40:00;2T;Vila Nova/GO;18;Miguel Delfino dos Santos;27;Guilherme Vieira Miranda
+833372;38;35:00;1T;Vila Nova/GO;13;Gabriel Isamu Silveira Maeda;7;Miguel Luciano da Silva Moreno
+833372;38;12:00;2T;Internacional/RS;20;Raykkonen Pereira Soares;5;Luiz Gustavo Nascimento Tava...
+833372;38;27:00;2T;Internacional/RS;23;Gustavo Mateus Silveira Ulguim;7;Diego de Azevedo Ahmed
+833372;38;27:00;2T;Internacional/RS;18;Bernardo Jacob Ferreira;9;Joao Pedro Bezerra de Olivei...
+833372;38;27:00;2T;Internacional/RS;19;Yago Eduardo Noal Lopes;10;Joao Gabriel Kempes Goncalves
+833372;38;33:00;2T;Vila Nova/GO;17;Kaua Sousa da Silva;11;Warley Corrêa Maitan
+833372;38;33:00;2T;Vila Nova/GO;19;Enzo Felipe Peres de Lima;8;Breno da Costa Pereira
+833372;38;40:00;2T;Internacional/RS;16;Alisson Rodrigues de Melo;6;Luiz Felipe de Morais Franci...
+833372;38;40:00;2T;Internacional/RS;17;Kauã Araujo Diniz;8;Benjamin Arhin
+833372;38;42:00;2T;Vila Nova/GO;20;Lucas Oliveira Alves;10;Rian Lucas Santos Alves
+833372;38;42:00;2T;Vila Nova/GO;14;Carlos Daniel Soares Ribeiro...;4;Lucas Paulino Souza de Olive...
+833372;38;42:00;2T;Vila Nova/GO;18;Miguel Delfino dos Santos;5;Felipe Faria Nascimento
+833381;47;-;INT;Coritiba SAF/PR;17;Lucas Crepaldi Pimentel;7;Welington Mayk Santos da Con...
+833381;47;-;INT;Coritiba SAF/PR;14;Matheus Dalsasso Dias;10;Gabriel Ferrari Martinez
+833381;47;21:00;2T;Coritiba SAF/PR;13;Kayk da Silva Felicio;11;Guilherme Porto Monteiro
+833381;47;25:00;2T;Vila Nova/GO;23;Gabriel Lima Dias;27;Guilherme Vieira Miranda
+833381;47;25:00;2T;Vila Nova/GO;21;Warley Corrêa Maitan;11;Rian Lucas Santos Alves
+833381;47;32:00;2T;Vila Nova/GO;17;Gabriel Isamu Silveira Maeda;10;Kerlon da Silva Carvalho
+833381;47;32:00;2T;Vila Nova/GO;14;Lucas Paulino Souza de Olive...;3;Samuel Lucas de Oliveira Souza
+833381;47;42:00;2T;Vila Nova/GO;18;Miguel Delfino dos Santos;5;Felipe Faria Nascimento
+833381;47;42:00;2T;Vila Nova/GO;20;Leonardo Alves Monteiro;9;Jackson Teixeira Filho
+833389;55;-;INT;Vila Nova/GO;18;Enzo Felipe Peres de Lima;7;Gabriel Lima Dias
+833389;55;10:00;2T;Vila Nova/GO;17;Miguel Delfino dos Santos;8;Guilherme Vieira Miranda
+833389;55;10:00;2T;Sport Recife/PE;15;Adriel Gomes do Nascimento;5;José Henrique Pedro Silva Sa...
+833389;55;10:00;2T;Vila Nova/GO;13;Caio Dantas Mendes;2;Gabriel Delfino dos Santos
+833389;55;10:00;2T;Sport Recife/PE;18;Higor Emanoel de Miranda Men...;10;Alvaro de Souza Fernandes Neto
+833389;55;20:00;2T;Vila Nova/GO;20;Miguel Luciano da Silva Moreno;11;Warley Corrêa Maitan
+833389;55;20:00;2T;Vila Nova/GO;19;Leonardo Alves Monteiro;5;Felipe Faria Nascimento
+833389;55;21:00;2T;Sport Recife/PE;16;Rafael Lima da Silva;11;José Fernando de Lima Soares
+833389;55;21:00;2T;Sport Recife/PE;21;Jefferson Borges do Nascimento;7;Felipe Gabriel dos Santos Si...
+833389;55;34:00;2T;Sport Recife/PE;17;Arthur Moreira de Medeiros C...;8;Erick Silva de Souza Rodrigu...
+833389;55;34:00;2T;Sport Recife/PE;19;Fillipy do Rozário Teixeira;9;Arthur Maron Cruz
+833389;55;37:00;2T;Vila Nova/GO;15;Breno da Costa Pereira;9;Jackson Teixeira Filho

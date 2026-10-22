@@ -1,12 +1,23 @@
+
+# Ambiente virtual
 .venv/
 venv/
+
+# Cache Python
 __pycache__/
-*.py[cod]
+*.pyc
+
+# Configuracoes locais
+.vscode/
+.idea/
+
+# Credenciais
 .env
 .env.*
-!.env.example
-.ipynb_checkpoints/
-.vscode/
-.DS_Store
-Thumbs.db
+
+# Arquivos temporarios
 *.log
+.DS_Store
+
+# Dados brutos da CBF
+dados/brutos/

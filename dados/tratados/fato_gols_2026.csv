@@ -1,0 +1,32 @@
+﻿id_partida;jogo;tempo;periodo;camisa;jogador;equipe_jogador;tipo_gol;equipe_beneficiada;gol_vila
+833339;7;10:00;1T;7;Bruno Iago Santana Melo;Operário/PR;NR;Adversario;0
+833339;7;+1;1T;9;Gustavo Puskas Pinheiro Lemos;Vila Nova/GO;NR;Vila Nova;1
+833339;7;15:00;2T;5;Guilherme Vieira Miranda;Vila Nova/GO;NR;Vila Nova;1
+833339;7;26:00;2T;9;Gustavo Puskas Pinheiro Lemos;Vila Nova/GO;NR;Vila Nova;1
+833349;15;23:00;1T;11;Warley Corrêa Maitan;Vila Nova/GO;NR;Vila Nova;1
+833349;15;27:00;1T;9;Leonardo Alves Monteiro;Vila Nova/GO;NR;Vila Nova;1
+833349;15;31:00;1T;17;João Victor Lobato Melo;Paysandu/PA;NR;Adversario;0
+833356;22;19:00;2T;4;Samuel Lucas de Oliveira Souza;Vila Nova/GO;NR;Vila Nova;1
+833356;22;30:00;2T;4;Guillermo Mendonça Payeras;Atlético Goianiense Saf/GO;CT;Vila Nova;1
+833356;22;41:00;2T;20;Warley Corrêa Maitan;Vila Nova/GO;NR;Vila Nova;1
+833363;29;+1;1T;9;Jackson Teixeira Filho;Vila Nova/GO;PN;Vila Nova;1
+833363;29;01:00;2T;4;Breno da Costa Pereira;Vila Nova/GO;CT;Adversario;0
+833363;29;26:00;2T;9;Jackson Teixeira Filho;Vila Nova/GO;PN;Vila Nova;1
+833363;29;+4;2T;4;Breno da Costa Pereira;Vila Nova/GO;CT;Adversario;0
+833372;38;09:00;1T;11;João Victor Alves de Morais Francisco;Internacional/RS;NR;Adversario;0
+833372;38;35:00;1T;8;Benjamin Arhin;Internacional/RS;NR;Adversario;0
+833372;38;06:00;2T;9;Joao Pedro Bezerra de Oliveira Lo;Internacional/RS;NR;Adversario;0
+833372;38;14:00;2T;13;Gabriel Isamu Silveira Maeda;Vila Nova/GO;NR;Vila Nova;1
+833372;38;38:00;2T;8;Benjamin Arhin;Internacional/RS;NR;Adversario;0
+833372;38;+1;2T;20;Raykkonen Pereira Soares;Internacional/RS;NR;Adversario;0
+833381;47;06:00;1T;7;Gustavo Puskas Pinheiro Lemos;Vila Nova/GO;NR;Vila Nova;1
+833381;47;42:00;1T;9;Thiago Azaf Siqueira Soares;Coritiba SAF/PR;NR;Adversario;0
+833381;47;+3;1T;2;João Gabriel Botelho Passos Cruz;Coritiba SAF/PR;NR;Adversario;0
+833381;47;37:00;2T;7;Gustavo Puskas Pinheiro Lemos;Vila Nova/GO;FT;Vila Nova;1
+833389;55;13:00;1T;7;Felipe Gabriel dos Santos Silva;Sport Recife/PE;NR;Adversario;0
+833389;55;18:00;1T;9;Arthur Maron Cruz;Sport Recife/PE;PN;Adversario;0
+833389;55;28:00;1T;11;Warley Corrêa Maitan;Vila Nova/GO;NR;Vila Nova;1
+833389;55;34:00;1T;9;Arthur Maron Cruz;Sport Recife/PE;NR;Adversario;0
+833389;55;13:00;2T;9;Arthur Maron Cruz;Sport Recife/PE;NR;Adversario;0
+833389;55;25:00;2T;4;Rodrigo Bringel de Oliveira;Vila Nova/GO;NR;Vila Nova;1
+833389;55;28:00;2T;16;Rafael Lima da Silva;Sport Recife/PE;NR;Adversario;0
