@@ -6,10 +6,6 @@ O projeto transforma registros de partidas, jogadores, gols, cartões e substitu
 
 > **Escopo:** 7 partidas analisadas. Os indicadores representam esse recorte e não necessariamente a temporada completa.
 
-## Visão geral
-
-![Visão Geral](imagens/pagina-01.png)
-
 ## Indicadores do recorte
 
 | Indicador | Resultado |
@@ -32,31 +28,31 @@ O projeto transforma registros de partidas, jogadores, gols, cartões e substitu
 
 ## Páginas do dashboard
 
-### 01 — Visão Geral
+### 01 - Visão Geral
 
 Resumo de resultados, evolução por partida, gols marcados e sofridos, desempenho como mandante e visitante e destaques individuais.
 
 ![Página 01 — Visão Geral](imagens/pagina-01.png)
 
-### 02 — Performance Coletiva
+### 02 - Performance Coletiva
 
 Evolução do saldo de gols, produção ofensiva, gols acumulados, aproveitamento e comparação de resultados por local.
 
 ![Página 02 — Performance Coletiva](imagens/pagina-02.png)
 
-### 03 — Análise de Partidas
+### 03 - Análise de Partidas
 
 Histórico de confrontos e detalhes dinâmicos da partida selecionada, incluindo gols, cartões e substituições.
 
 ![Página 03 — Análise de Partidas](imagens/pagina-03.png)
 
-### 04 — Desempenho Individual
+### 04 - Desempenho Individual
 
 Rankings de artilharia, partidas e titularidades, tabela de jogadores e perfil individual interativo.
 
 ![Página 04 — Desempenho Individual](imagens/pagina-04.png)
 
-### 05 — Disciplina e Elenco
+### 05 - Disciplina e Elenco
 
 Distribuição e evolução de cartões, jogadores advertidos, disciplina individual e utilização do elenco por partida.
 
@@ -68,6 +64,8 @@ Distribuição e evolução de cartões, jogadores advertidos, disciplina indivi
 - **Power Query:** transformação e preparação das tabelas no Power BI.
 - **Power BI:** modelagem de dados, medidas DAX, visualizações e interações.
 - **DAX:** indicadores de resultados, desempenho coletivo e individual, cartões e evolução acumulada.
+- **Git e GitHub:** versionamento de código, organização e documentação do projeto.
+- **Bibliotecas Python:** Pandas, Requests, BeautifulSoup e PyMuPDF.
 
 ## Processo de desenvolvimento
 
@@ -82,15 +80,28 @@ Distribuição e evolução de cartões, jogadores advertidos, disciplina indivi
 ```text
 vila-nova-sub20-performance-hub/
 ├── README.md
+├── .gitignore
+├── requirements.txt
+├── dashboard/
+│   └── Vila-Nova-Sub20-Performance.pbix
 ├── imagens/
 │   ├── pagina-01.png
 │   ├── pagina-02.png
 │   ├── pagina-03.png
 │   ├── pagina-04.png
 │   └── pagina-05.png
-├── dashboard/       # Arquivo .pbix (a adicionar)
-├── dados/           # Bases permitidas para compartilhamento (a adicionar)
-└── scripts/         # Scripts Python revisados (a adicionar)
+├── dados/
+│   └── tratados/
+│       ├── dim_jogadores_2026.csv
+│       ├── fato_cartoes_amarelos_2026.csv
+│       ├── fato_cartoes_vermelhos_2026.csv
+│       ├── fato_gols_2026.csv
+│       ├── fato_jogadores_partidas_2026.csv
+│       ├── fato_substituicoes_2026.csv
+│       └── partidas_vila_nova_2026.csv
+└── python/
+    ├── pipeline/       # Extração, tratamento e auditoria
+    └── exploracao/     # Scripts de investigação das fontes
 ```
 
 ## Fonte e limitações
@@ -100,6 +111,50 @@ vila-nova-sub20-performance-hub/
 - O dashboard não pretende medir métricas de rastreamento ou desempenho físico não presentes na fonte.
 - Este é um projeto independente de portfólio, sem vínculo oficial com o Vila Nova Futebol Clube ou com a CBF.
 
----
+## Execução do projeto
 
+Para preparar o ambiente Python, clone o repositório e instale as dependências:
+
+No Windows (PowerShell):
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+```
+
+### Auditoria dos dados
+
+Para executar a auditoria dos dados tratados, utilize o comando abaixo na raiz do projeto:
+
+```powershell
+python python/pipeline/21_auditoria_final.py
+```
+
+A auditoria verifica a correspondência entre os eventos das partidas e os registros dos jogadores, contribuindo para a consistência das informações utilizadas no dashboard.
+
+Os scripts estão organizados em duas pastas:
+
+```bash
+git clone https://github.com/phfbr/vila-nova-sub20-performance-hub-.git
+cd vila-nova-sub20-performance-hub-
+python -m venv .venv
+```
+
+No Windows (PowerShell):
+
+```powershell
+.\.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+```
+
+Os scripts estão organizados em duas pastas:
+
+- **`python/pipeline/`** — extração, tratamento, estruturação e auditoria dos dados.
+- **`python/exploracao/`** — investigação das fontes e testes utilizados durante o desenvolvimento.
+
+Os arquivos CSV tratados estão disponíveis em `dados/tratados/` e podem ser utilizados para explorar os dados do projeto.
+
+**Observação:** os documentos brutos da CBF não estão incluídos no repositório. A execução integral do pipeline exige a obtenção desses documentos. Para visualizar o dashboard, utilize o arquivo `.pbix` disponível na pasta `dashboard/`, com o Power BI Desktop.
+
+---
 **Projeto de portfólio em análise de dados e Business Intelligence.**
